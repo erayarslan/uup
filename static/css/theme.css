@@ -1,0 +1,109 @@
+body {
+    padding: 0;
+    margin: 0 auto;
+    background-color: #f7f7f7;
+    font-family: 'Lato', sans-serif;
+}
+
+#wrapper {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.button {
+    width: 440px;
+    height: 45px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+.submit {
+    margin-top: 20px;
+    background-color: #a6d7a0;
+    -webkit-transition: background-color .2s ease;
+    -moz-transition: background-color .2s ease;
+    -ms-transition: background-color .2s ease;
+    -o-transition: background-color .2s ease;
+    transition: background-color .2s ease;
+}
+
+.submit:hover {
+    background-color: #93c08e;
+}
+
+.form {
+    border: thin solid #ededed;
+    position: relative;
+    margin: 30px auto;
+    width: 580px;
+    height: auto;
+    background-color: #ffffff;
+    padding: 30px 0;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+}
+
+input[type=text] {
+    width: 390px;
+    height: 40px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    margin: 0 auto;
+    display: block;
+    border: none;
+    background-color: #EBEBEB;
+    padding: 2px 0 2px 45px;
+    -webkit-background-size: 18px;
+    -o-background-size: 18px;
+    background-size: 18px;
+    font-size: 15px;
+    font-weight: 300;
+    color: #777;
+    -webkit-transition: background-color .2s ease;
+    -moz-transition: background-color .2s ease;
+    -ms-transition: background-color .2s ease;
+    -o-transition: background-color .2s ease;
+    transition: background-color .2s ease;
+}
+
+input[type=text]:focus {
+    outline: none;
+    background-color: #f3f3f3;
+}
+
+img	{
+    width: 24px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    padding: 11px 0;
+}
+
+p {
+    background-color: #EBEBEB;
+    color: #747474;
+    display: block;
+    text-align: center;
+    width: 440px;
+    margin: auto;
+    margin-top: 20px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+}
+
+a	{
+    font-family: 'Lato';
+    text-decoration: none;
+    padding:3px;
+    color:#fff;
+    text-decoration:none;
+    background-color:#93c08e;
+    cursor:pointer;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+}
+
+
