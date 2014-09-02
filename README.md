@@ -1,6 +1,6 @@
 # uup
 
-Your MessageBox place. > http://uup.nu
+Your MessageBox place.
 
 ## license
 
